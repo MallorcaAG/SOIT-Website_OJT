@@ -19,5 +19,9 @@
         &emsp;- Recognitions                <br />
     </p>
     <!-- Links to webpages in About folder -->
+    <a href="./about/history.php">History</a> <br />
+    <a href="./about/administration.php">Administration</a> <br />
+    <a href="./about/contact-us.php">Contact Us</a> <br />
+    
 </body>
 </html>

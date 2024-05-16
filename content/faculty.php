@@ -14,5 +14,7 @@
     <h1>Faculty</h1>
     
     <!-- Links to webpages in Research folder -->
+    <a href="./faculty/faculty-development.php">Faculty Development</a> <br />
+    <a href="./faculty/faculty-members.php">Faculty Members</a> <br />
 </body>
 </html>

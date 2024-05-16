@@ -19,5 +19,10 @@
         &emsp;- Research Laboratory                 <br />
     </p>
     <!-- Links to webpages in Research folder -->
+    <a href="./research/research-comittees/applications-and-innovations-mobile-and-cloud-computing-aimco.php">AIMCo</a> <br />
+    <a href="./research/research-comittees/center-human-automation-interaction-research-chair.php">CHAIR</a> <br />
+    <a href="./research/research-comittees/ict-infrastructure-laboratory-ict.php">ICT</a> <br />
+    <a href="./research/research-comittees/pattern-recognition-image-analysis-laboratory-primal.php">PRImAL</a> <br />
+
 </body>
 </html>

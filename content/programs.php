@@ -22,5 +22,15 @@
         &emsp;- General info about PhDCS    <br />
     </p>
     <!-- Links to webpages in Programs folder -->
+    <a href="./programs/BS/cs.php">BSCS</a> <br />
+    <a href="./programs/BS/emc.php">BSEMC</a> <br />
+    <a href="./programs/BS/is.php">BSIS</a> <br />
+    <a href="./programs/BS/it.php">BSIT</a> <br />
+    <a href="./programs/BS-MS/bs-ms.php">BSCS</a> <br />
+    <a href="./programs/MS/business-analytics.php">MAN</a> <br />
+    <a href="./programs/MS/cs.php">MSCS</a> <br />
+    <a href="./programs/MS/it.php">MSIT</a> <br />
+    <a href="./programs/PhD/cs.php">PhDCS</a> <br />
+    <a href="./programs/learning-modality.php">LEARNING MODALITY</a> <br />
 </body>
 </html>
